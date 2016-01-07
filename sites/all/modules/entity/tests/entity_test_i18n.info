@@ -1,0 +1,20 @@
+name = Entity-test type translation
+description = Allows translating entity-test types.
+dependencies[] = entity_test
+dependencies[] = i18n_string
+package = Multilingual - Internationalization
+core = 7.x
+hidden = TRUE
+; Information added by drupal.org packaging script on 2013-08-14
+version = "7.x-1.2"
+core = "7.x"
+project = "entity"
+datestamp = "1376493705"
+
+
+; Information added by Drupal.org packaging script on 2013-12-25
+version = "7.x-1.0-beta3"
+core = "7.x"
+project = "zircon_profile"
+datestamp = "1387960138"
+

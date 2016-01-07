@@ -1,0 +1,20 @@
+name = Update manager
+description = Checks for available updates, and can securely install or update modules and themes via a web interface.
+version = VERSION
+package = Core
+core = 7.x
+files[] = update.test
+configure = admin/reports/updates/settings
+
+; Information added by  packaging script on 2013-11-20
+version = "7.24"
+project = "drupal"
+datestamp = "1384983240"
+
+
+; Information added by Drupal.org packaging script on 2013-12-25
+version = "7.x-1.0-beta3"
+core = "7.x"
+project = "zircon_profile"
+datestamp = "1387960138"
+
